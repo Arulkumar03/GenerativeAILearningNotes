@@ -12,7 +12,9 @@ Convert YouTube video transcripts into detailed and insightful study notes
 **User-Friendly Interface:** The Streamlit-based interface ensures a user-friendly experience, making it accessible for both students and educators.
 
 Sample Output:
+
 ![image](https://github.com/Arulkumar03/GenerativeAILearningNotes/assets/117987790/fade42ac-4fb1-43ca-9db4-bdc543bf05df)
+
 
 ![image](https://github.com/Arulkumar03/GenerativeAILearningNotes/assets/117987790/46b69b14-a1dd-488f-bf42-f471fc2051d8)
 
