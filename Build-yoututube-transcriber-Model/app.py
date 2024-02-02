@@ -25,9 +25,10 @@ def generate_notes(transcript_text, subject):
     return response.text
 
 def main():
-    st.title("YouTube Transcript to Detailed Notes Converter")
+    st.title("YouTube Transcript to Detailed Notes Converter using Gemini Model")
 
-    subject = st.selectbox("Select Subject:", ["Physics", "Chemistry", "Mathematics", "Data Science and Statistics"])
+    subject = st.selectbox("Select Subject:", ["Physics", "Biology", "Mathematics", "Data Science and Statistics","Data Science and ML",
+                                               "Probability","Devops","Probability","GenerativeAI","Artificial Inetelligence"])
     youtube_link = st.text_input("Enter YouTube Video Link:")
 
     if youtube_link:
