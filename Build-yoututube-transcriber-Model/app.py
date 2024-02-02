@@ -1,13 +1,7 @@
 import streamlit as st
-from dotenv import load_dotenv
 import os
+from dotenv import load_dotenv
 from transcript import extract_transcript
-
-load_dotenv()
-
-import streamlit as st
-import os
-from dotenv import load_dotenv
 import google.generativeai as genai
 
 load_dotenv()
